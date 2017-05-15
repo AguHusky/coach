@@ -1,4 +1,4 @@
-# coach
+# mi super curso de git
 Este es un repositorio
 
 *Agregar cosas a control de versiones.
