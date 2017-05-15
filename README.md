@@ -1,4 +1,4 @@
-# coach
+# Entranamiento coach
 Este es un repositorio
 
 *Agregar cosas a control de versiones.
