@@ -1,2 +1,2 @@
-i# coach
+# coach
 Este es un repositorio
